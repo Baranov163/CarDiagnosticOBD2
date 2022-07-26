@@ -1,0 +1,1048 @@
+[LOG START: 2022-03-15 14:50:00,842]
+2022-03-15 14:50:01,250 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-15 14:50:00,842]
+
+[LOG START: 2022-03-15 14:52:08,480]
+2022-03-15 14:52:08,863 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-15 14:52:08,480]
+
+[LOG START: 2022-03-15 14:53:29,383]
+2022-03-15 14:53:29,624 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-15 14:53:29,383]
+
+[LOG START: 2022-03-15 14:59:42,848]
+2022-03-15 14:59:43,106 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-15 14:59:42,848]
+
+[LOG START: 2022-03-16 23:37:33,835]
+2022-03-16 23:37:34,279 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-16 23:37:33,835]
+
+[LOG START: 2022-03-16 23:40:52,127]
+2022-03-16 23:40:52,358 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-16 23:40:52,127]
+
+[LOG START: 2022-03-20 00:14:33,398]
+2022-03-20 00:14:33,822 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-20 00:14:33,398]
+
+[LOG START: 2022-03-20 00:17:19,570]
+2022-03-20 00:17:19,792 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-20 00:17:19,570]
+
+[LOG START: 2022-03-20 00:17:51,095]
+2022-03-20 00:17:51,318 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-20 00:17:51,095]
+
+[LOG START: 2022-03-23 21:56:35,776]
+2022-03-23 21:56:36,093 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-23 21:56:35,776]
+
+[LOG START: 2022-03-23 22:00:34,442]
+2022-03-23 22:00:34,850 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-23 22:00:34,442]
+
+[LOG START: 2022-03-23 22:06:00,642]
+2022-03-23 22:06:00,877 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-23 22:06:00,642]
+
+[LOG START: 2022-03-23 22:27:03,680]
+2022-03-23 22:27:03,896 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-23 22:27:03,680]
+
+[LOG START: 2022-03-23 22:29:58,501]
+2022-03-23 22:29:58,736 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-23 22:29:58,501]
+
+[LOG START: 2022-03-23 22:34:02,199]
+2022-03-23 22:34:02,437 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-23 22:34:02,199]
+
+[LOG START: 2022-03-23 22:34:27,487]
+2022-03-23 22:34:27,720 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-23 22:34:27,487]
+
+[LOG START: 2022-03-23 22:59:07,211]
+2022-03-23 22:59:07,514 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-23 22:59:07,211]
+
+[LOG START: 2022-03-24 22:20:07,917]
+2022-03-24 22:20:08,433 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-24 22:20:07,917]
+
+[LOG START: 2022-03-24 22:27:47,502]
+2022-03-24 22:27:47,835 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-24 22:27:47,502]
+
+[LOG START: 2022-03-24 22:40:55,539]
+2022-03-24 22:40:55,893 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-24 22:40:55,539]
+
+[LOG START: 2022-03-25 23:47:42,849]
+2022-03-25 23:47:43,099 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-25 23:47:42,849]
+
+[LOG START: 2022-03-26 22:10:20,556]
+2022-03-26 22:10:20,993 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-26 22:10:20,556]
+
+[LOG START: 2022-03-26 22:13:04,393]
+2022-03-26 22:13:04,665 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-26 22:13:04,393]
+
+[LOG START: 2022-03-26 22:13:31,143]
+2022-03-26 22:13:31,370 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-26 22:13:31,143]
+
+[LOG START: 2022-03-26 22:15:38,488]
+2022-03-26 22:15:38,739 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-26 22:15:38,488]
+
+[LOG START: 2022-03-28 16:38:01,673]
+2022-03-28 16:38:01,955 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:38:01,673]
+
+[LOG START: 2022-03-28 16:38:46,213]
+2022-03-28 16:38:46,532 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:38:46,213]
+
+[LOG START: 2022-03-28 16:39:28,441]
+2022-03-28 16:39:28,759 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:39:28,441]
+
+[LOG START: 2022-03-28 16:41:17,547]
+2022-03-28 16:41:17,860 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:41:17,547]
+
+[LOG START: 2022-03-28 16:46:35,160]
+2022-03-28 16:46:35,489 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:46:35,160]
+
+[LOG START: 2022-03-28 16:48:47,164]
+2022-03-28 16:48:47,494 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG START: 2022-03-28 16:49:53,855]
+2022-03-28 16:49:54,175 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:49:53,855]
+
+[LOG START: 2022-03-28 16:50:52,947]
+2022-03-28 16:50:53,258 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:50:52,947]
+
+[LOG START: 2022-03-28 16:51:31,046]
+2022-03-28 16:51:31,365 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:51:31,046]
+
+[LOG START: 2022-03-28 16:55:55,787]
+2022-03-28 16:55:56,118 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:55:55,787]
+
+[LOG START: 2022-03-28 16:56:33,800]
+2022-03-28 16:56:34,107 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:56:33,800]
+
+[LOG START: 2022-03-28 16:57:04,664]
+2022-03-28 16:57:04,970 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:57:04,664]
+
+[LOG START: 2022-03-28 16:59:19,336]
+2022-03-28 16:59:19,660 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-28 16:59:19,336]
+
+[LOG START: 2022-03-28 17:01:13,487]
+2022-03-28 17:01:13,828 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG START: 2022-03-29 15:50:22,198]
+2022-03-29 15:50:22,534 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-29 15:50:22,198]
+
+[LOG START: 2022-03-31 23:41:47,301]
+2022-03-31 23:41:47,666 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-31 23:41:47,301]
+
+[LOG START: 2022-03-31 23:46:11,745]
+2022-03-31 23:46:11,993 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-31 23:46:11,745]
+
+[LOG START: 2022-03-31 23:47:36,361]
+2022-03-31 23:47:36,586 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-03-31 23:47:36,361]
+
+[LOG START: 2022-04-08 20:57:35,456]
+2022-04-08 20:57:35,763 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 20:57:35,456]
+
+[LOG START: 2022-04-08 21:15:38,555]
+2022-04-08 21:15:38,767 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 21:15:38,555]
+
+[LOG START: 2022-04-08 21:17:35,795]
+2022-04-08 21:17:36,005 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 21:17:35,795]
+
+[LOG START: 2022-04-08 21:33:05,846]
+2022-04-08 21:33:06,061 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 21:33:05,846]
+
+[LOG START: 2022-04-08 21:34:00,416]
+2022-04-08 21:34:00,621 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 21:34:00,417]
+
+[LOG START: 2022-04-08 21:34:12,196]
+2022-04-08 21:34:12,436 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 21:34:12,198]
+
+[LOG START: 2022-04-08 21:40:58,104]
+2022-04-08 21:40:58,330 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 21:40:58,104]
+
+[LOG START: 2022-04-08 22:15:28,521]
+2022-04-08 22:15:28,738 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:15:28,521]
+
+[LOG START: 2022-04-08 22:17:10,631]
+2022-04-08 22:17:10,843 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:17:10,632]
+
+[LOG START: 2022-04-08 22:17:44,407]
+2022-04-08 22:17:44,619 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:17:44,407]
+
+[LOG START: 2022-04-08 22:32:48,474]
+2022-04-08 22:32:48,713 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:32:48,474]
+
+[LOG START: 2022-04-08 22:34:42,219]
+2022-04-08 22:34:42,439 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:34:42,219]
+
+[LOG START: 2022-04-08 22:35:53,625]
+2022-04-08 22:35:53,842 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:35:53,625]
+
+[LOG START: 2022-04-08 22:36:32,896]
+2022-04-08 22:36:33,124 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:36:32,896]
+
+[LOG START: 2022-04-08 22:38:40,917]
+2022-04-08 22:38:41,189 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:38:40,917]
+
+[LOG START: 2022-04-08 22:40:33,877]
+2022-04-08 22:40:34,090 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:40:33,877]
+
+[LOG START: 2022-04-08 22:45:01,536]
+2022-04-08 22:45:01,771 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:45:01,536]
+
+[LOG START: 2022-04-08 22:48:15,496]
+2022-04-08 22:48:15,707 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:48:15,496]
+
+[LOG START: 2022-04-08 22:49:18,727]
+2022-04-08 22:49:18,947 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:49:18,728]
+
+[LOG START: 2022-04-08 22:49:37,331]
+2022-04-08 22:49:37,485 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:49:37,331]
+
+[LOG START: 2022-04-08 22:50:33,518]
+2022-04-08 22:50:33,671 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:50:33,518]
+
+[LOG START: 2022-04-08 22:51:56,240]
+2022-04-08 22:51:56,389 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:51:56,240]
+
+[LOG START: 2022-04-08 22:51:59,759]
+2022-04-08 22:51:59,913 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:51:59,759]
+
+[LOG START: 2022-04-08 22:52:15,605]
+2022-04-08 22:52:15,818 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:52:15,605]
+
+[LOG START: 2022-04-08 22:52:31,673]
+2022-04-08 22:52:31,822 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-08 22:52:31,673]
+
+[LOG START: 2022-04-09 11:58:30,112]
+2022-04-09 11:58:30,349 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 11:58:30,112]
+
+[LOG START: 2022-04-09 15:39:05,270]
+2022-04-09 15:39:05,493 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 15:39:05,270]
+
+[LOG START: 2022-04-09 15:39:28,928]
+2022-04-09 15:39:29,144 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 15:39:28,928]
+
+[LOG START: 2022-04-09 15:40:33,361]
+2022-04-09 15:40:33,576 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 15:40:33,361]
+
+[LOG START: 2022-04-09 15:43:52,396]
+2022-04-09 15:43:52,607 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 15:43:52,396]
+
+[LOG START: 2022-04-09 15:49:16,284]
+2022-04-09 15:49:16,500 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 15:49:16,285]
+
+[LOG START: 2022-04-09 15:50:46,267]
+2022-04-09 15:50:46,486 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 15:50:46,267]
+
+[LOG START: 2022-04-09 15:52:22,434]
+2022-04-09 15:52:22,647 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 15:52:22,434]
+
+[LOG START: 2022-04-09 15:53:22,500]
+2022-04-09 15:53:22,734 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 15:53:22,500]
+
+[LOG START: 2022-04-09 15:54:56,267]
+2022-04-09 15:54:56,418 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 15:54:56,267]
+
+[LOG START: 2022-04-09 15:55:15,795]
+2022-04-09 15:55:16,011 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 15:55:15,796]
+
+[LOG START: 2022-04-09 15:55:21,664]
+2022-04-09 15:55:21,820 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 15:55:21,664]
+
+[LOG START: 2022-04-09 16:02:29,389]
+2022-04-09 16:02:29,602 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 16:02:29,389]
+
+[LOG START: 2022-04-09 16:02:56,747]
+2022-04-09 16:02:56,960 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 16:02:56,747]
+
+[LOG START: 2022-04-09 16:03:14,090]
+2022-04-09 16:03:14,305 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 16:03:14,090]
+
+[LOG START: 2022-04-09 16:03:50,784]
+2022-04-09 16:03:50,996 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 16:03:50,784]
+
+[LOG START: 2022-04-09 16:05:16,926]
+2022-04-09 16:05:17,139 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 16:05:16,926]
+
+[LOG START: 2022-04-09 16:06:01,992]
+2022-04-09 16:06:02,205 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 16:06:01,992]
+
+[LOG START: 2022-04-09 16:07:06,344]
+2022-04-09 16:07:06,554 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 16:07:06,344]
+
+[LOG START: 2022-04-09 16:07:35,380]
+2022-04-09 16:07:35,594 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 16:07:35,380]
+
+[LOG START: 2022-04-09 16:08:28,973]
+2022-04-09 16:08:29,183 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 16:08:28,974]
+
+[LOG START: 2022-04-09 16:11:00,956]
+2022-04-09 16:11:01,170 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 16:11:00,956]
+
+[LOG START: 2022-04-09 16:12:56,836]
+2022-04-09 16:12:57,046 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-09 16:12:56,837]
+
+[LOG START: 2022-04-12 12:40:50,589]
+2022-04-12 12:40:51,249 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-12 12:40:50,591]
+
+[LOG START: 2022-04-12 12:51:13,867]
+2022-04-12 12:51:14,164 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-12 12:51:13,867]
+
+[LOG START: 2022-04-12 12:59:40,661]
+2022-04-12 12:59:40,958 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-12 12:59:40,661]
+
+[LOG START: 2022-04-12 13:02:05,045]
+2022-04-12 13:02:05,342 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-12 13:02:05,045]
+
+[LOG START: 2022-04-22 02:32:31,324]
+2022-04-22 02:32:31,570 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-22 02:32:31,324]
+
+[LOG START: 2022-04-22 02:33:12,694]
+2022-04-22 02:33:12,941 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-22 02:33:12,694]
+
+[LOG START: 2022-04-22 02:33:46,634]
+2022-04-22 02:33:46,870 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-22 02:33:46,635]
+
+[LOG START: 2022-04-22 02:34:15,162]
+2022-04-22 02:34:15,395 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-22 02:34:15,163]
+
+[LOG START: 2022-04-22 02:34:50,959]
+2022-04-22 02:34:51,193 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-22 02:34:50,960]
+
+[LOG START: 2022-04-22 02:35:15,175]
+2022-04-22 02:35:15,390 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-22 02:35:15,175]
+
+[LOG START: 2022-04-22 02:46:45,037]
+2022-04-22 02:46:45,283 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-22 02:46:45,037]
+
+[LOG START: 2022-04-22 02:47:37,696]
+2022-04-22 02:47:37,851 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-22 02:47:37,696]
+
+[LOG START: 2022-04-25 16:27:28,587]
+2022-04-25 16:27:28,821 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 16:27:28,587]
+
+[LOG START: 2022-04-25 16:42:43,209]
+2022-04-25 16:42:43,454 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 16:42:43,209]
+
+[LOG START: 2022-04-25 16:48:20,093]
+2022-04-25 16:48:20,371 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 16:48:20,093]
+
+[LOG START: 2022-04-25 16:53:00,055]
+2022-04-25 16:53:00,263 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 16:53:00,055]
+
+[LOG START: 2022-04-25 16:53:24,959]
+2022-04-25 16:53:25,210 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 16:53:24,959]
+
+[LOG START: 2022-04-25 16:53:48,905]
+2022-04-25 16:53:49,139 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 16:53:48,905]
+
+[LOG START: 2022-04-25 17:01:18,026]
+2022-04-25 17:01:18,246 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 17:01:18,026]
+
+[LOG START: 2022-04-25 20:27:00,231]
+2022-04-25 20:27:00,528 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 20:27:00,231]
+
+[LOG START: 2022-04-25 20:27:33,807]
+2022-04-25 20:27:34,010 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 20:27:33,807]
+
+[LOG START: 2022-04-25 20:28:38,948]
+2022-04-25 20:28:39,164 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 20:28:38,948]
+
+[LOG START: 2022-04-25 20:29:57,454]
+2022-04-25 20:29:57,695 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 20:29:57,454]
+
+[LOG START: 2022-04-25 20:30:18,856]
+2022-04-25 20:30:19,088 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 20:30:18,856]
+
+[LOG START: 2022-04-25 20:35:29,758]
+2022-04-25 20:35:29,999 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 20:35:29,758]
+
+[LOG START: 2022-04-25 20:36:32,905]
+2022-04-25 20:36:33,151 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 20:36:32,906]
+
+[LOG START: 2022-04-25 20:51:51,667]
+2022-04-25 20:51:51,823 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 20:51:51,667]
+
+[LOG START: 2022-04-25 20:52:15,932]
+2022-04-25 20:52:16,089 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 20:52:15,932]
+
+[LOG START: 2022-04-25 23:25:43,742]
+2022-04-25 23:25:43,946 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 23:25:43,742]
+
+[LOG START: 2022-04-25 23:27:13,405]
+2022-04-25 23:27:13,648 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 23:27:13,405]
+
+[LOG START: 2022-04-25 23:31:55,304]
+2022-04-25 23:31:55,584 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 23:31:55,304]
+
+[LOG START: 2022-04-25 23:37:25,677]
+2022-04-25 23:37:25,971 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 23:37:25,677]
+
+[LOG START: 2022-04-25 23:43:33,161]
+2022-04-25 23:43:33,458 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 23:43:33,161]
+
+[LOG START: 2022-04-25 23:48:26,424]
+2022-04-25 23:48:26,678 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 23:48:26,424]
+
+[LOG START: 2022-04-25 23:52:19,940]
+2022-04-25 23:52:20,247 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 23:52:19,940]
+
+[LOG START: 2022-04-25 23:52:53,035]
+2022-04-25 23:52:53,346 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-25 23:52:53,035]
+
+[LOG START: 2022-04-26 02:00:53,502]
+2022-04-26 02:00:53,804 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-26 02:00:53,502]
+
+[LOG START: 2022-04-26 02:01:54,669]
+2022-04-26 02:01:55,001 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-26 02:01:54,669]
+
+[LOG START: 2022-04-27 12:31:18,650]
+2022-04-27 12:31:18,978 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-27 12:31:18,650]
+
+[LOG START: 2022-04-27 12:40:12,698]
+2022-04-27 12:40:12,964 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-27 12:40:12,698]
+
+[LOG START: 2022-04-27 12:46:19,462]
+2022-04-27 12:46:19,699 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-27 12:46:19,462]
+
+[LOG START: 2022-04-27 12:49:47,337]
+2022-04-27 12:49:47,602 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-27 12:49:47,337]
+
+[LOG START: 2022-04-28 16:25:25,672]
+2022-04-28 16:25:26,131 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-04-28 16:25:25,672]
+
+[LOG START: 2022-05-06 19:01:36,680]
+2022-05-06 19:01:36,979 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-06 19:01:36,680]
+
+[LOG START: 2022-05-10 22:26:22,868]
+2022-05-10 22:26:23,327 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:26:22,868]
+
+[LOG START: 2022-05-10 22:28:25,141]
+2022-05-10 22:28:25,378 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:28:25,141]
+
+[LOG START: 2022-05-10 22:30:09,390]
+2022-05-10 22:30:09,619 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:30:09,390]
+
+[LOG START: 2022-05-10 22:31:01,959]
+2022-05-10 22:31:02,188 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:31:01,959]
+
+[LOG START: 2022-05-10 22:37:12,818]
+2022-05-10 22:37:13,063 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:37:12,819]
+
+[LOG START: 2022-05-10 22:38:39,418]
+2022-05-10 22:38:39,729 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:38:39,418]
+
+[LOG START: 2022-05-10 22:39:01,200]
+2022-05-10 22:39:01,441 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:39:01,200]
+
+[LOG START: 2022-05-10 22:40:09,044]
+2022-05-10 22:40:09,299 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:40:09,044]
+
+[LOG START: 2022-05-10 22:40:49,889]
+2022-05-10 22:40:50,111 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:40:49,889]
+
+[LOG START: 2022-05-10 22:41:51,151]
+2022-05-10 22:41:51,389 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:41:51,151]
+
+[LOG START: 2022-05-10 22:43:50,171]
+2022-05-10 22:43:50,423 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:43:50,171]
+
+[LOG START: 2022-05-10 22:44:15,620]
+2022-05-10 22:44:15,851 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:44:15,620]
+
+[LOG START: 2022-05-10 22:44:30,780]
+2022-05-10 22:44:31,011 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:44:30,780]
+
+[LOG START: 2022-05-10 22:44:44,145]
+2022-05-10 22:44:44,386 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:44:44,145]
+
+[LOG START: 2022-05-10 22:44:58,601]
+2022-05-10 22:44:58,949 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:44:58,601]
+
+[LOG START: 2022-05-10 22:45:22,860]
+2022-05-10 22:45:23,094 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:45:22,860]
+
+[LOG START: 2022-05-10 22:45:36,235]
+2022-05-10 22:45:36,479 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:45:36,235]
+
+[LOG START: 2022-05-10 22:46:21,071]
+2022-05-10 22:46:21,310 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:46:21,071]
+
+[LOG START: 2022-05-10 22:50:32,983]
+2022-05-10 22:50:33,223 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:50:32,991]
+
+[LOG START: 2022-05-10 22:51:20,343]
+2022-05-10 22:51:20,563 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:51:20,343]
+
+[LOG START: 2022-05-10 22:51:41,416]
+2022-05-10 22:51:41,653 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:51:41,416]
+
+[LOG START: 2022-05-10 22:54:53,444]
+2022-05-10 22:54:53,673 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 22:54:53,444]
+
+[LOG START: 2022-05-10 23:02:05,331]
+2022-05-10 23:02:05,558 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:02:05,331]
+
+[LOG START: 2022-05-10 23:04:42,611]
+2022-05-10 23:04:42,823 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:04:42,611]
+
+[LOG START: 2022-05-10 23:05:13,411]
+2022-05-10 23:05:13,643 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:05:13,411]
+
+[LOG START: 2022-05-10 23:05:39,680]
+2022-05-10 23:05:39,900 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:05:39,680]
+
+[LOG START: 2022-05-10 23:08:04,731]
+2022-05-10 23:08:04,951 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:08:04,731]
+
+[LOG START: 2022-05-10 23:10:23,517]
+2022-05-10 23:10:23,736 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:10:23,517]
+
+[LOG START: 2022-05-10 23:11:34,411]
+2022-05-10 23:11:34,625 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:11:34,411]
+
+[LOG START: 2022-05-10 23:12:39,292]
+2022-05-10 23:12:39,527 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:12:39,292]
+
+[LOG START: 2022-05-10 23:14:08,756]
+2022-05-10 23:14:08,993 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:14:08,756]
+
+[LOG START: 2022-05-10 23:15:19,960]
+2022-05-10 23:15:20,179 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:15:19,960]
+
+[LOG START: 2022-05-10 23:16:35,968]
+2022-05-10 23:16:36,194 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:16:35,968]
+
+[LOG START: 2022-05-10 23:17:34,785]
+2022-05-10 23:17:35,036 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:17:34,785]
+
+[LOG START: 2022-05-10 23:18:38,565]
+2022-05-10 23:18:38,780 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:18:38,565]
+
+[LOG START: 2022-05-10 23:19:51,868]
+2022-05-10 23:19:52,095 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:19:51,868]
+
+[LOG START: 2022-05-10 23:20:27,405]
+2022-05-10 23:20:27,640 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:20:27,405]
+
+[LOG START: 2022-05-10 23:22:02,201]
+2022-05-10 23:22:02,469 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:22:02,201]
+
+[LOG START: 2022-05-10 23:23:08,861]
+2022-05-10 23:23:09,017 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-10 23:23:08,861]
+
+[LOG START: 2022-05-11 21:20:46,316]
+2022-05-11 21:20:46,536 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-11 21:20:46,316]
+
+[LOG START: 2022-05-11 21:43:30,097]
+2022-05-11 21:43:30,349 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-11 21:43:30,097]
+
+[LOG START: 2022-05-11 21:43:56,533]
+2022-05-11 21:43:56,762 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-11 21:43:56,533]
+
+[LOG START: 2022-05-11 21:45:35,351]
+2022-05-11 21:45:35,613 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-11 21:45:35,351]
+
+[LOG START: 2022-05-11 21:54:57,868]
+2022-05-11 21:54:58,084 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-11 21:54:57,868]
+
+[LOG START: 2022-05-11 22:01:41,767]
+2022-05-11 22:01:41,992 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-11 22:01:41,767]
+
+[LOG START: 2022-05-11 22:02:39,700]
+2022-05-11 22:02:39,922 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-11 22:02:39,700]
+
+[LOG START: 2022-05-13 21:15:38,253]
+2022-05-13 21:15:38,592 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:15:38,253]
+
+[LOG START: 2022-05-13 21:30:41,640]
+2022-05-13 21:30:41,930 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:30:41,640]
+
+[LOG START: 2022-05-13 21:31:11,908]
+2022-05-13 21:31:12,151 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:31:11,908]
+
+[LOG START: 2022-05-13 21:31:30,179]
+2022-05-13 21:31:30,449 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:31:30,179]
+
+[LOG START: 2022-05-13 21:34:55,683]
+2022-05-13 21:34:55,930 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:34:55,683]
+
+[LOG START: 2022-05-13 21:35:15,160]
+2022-05-13 21:35:15,393 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:35:15,160]
+
+[LOG START: 2022-05-13 21:37:36,315]
+2022-05-13 21:37:36,543 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:37:36,315]
+
+[LOG START: 2022-05-13 21:37:47,730]
+2022-05-13 21:37:47,980 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:37:47,730]
+
+[LOG START: 2022-05-13 21:38:27,630]
+2022-05-13 21:38:27,881 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:38:27,630]
+
+[LOG START: 2022-05-13 21:44:10,621]
+2022-05-13 21:44:10,876 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:44:10,621]
+
+[LOG START: 2022-05-13 21:51:01,082]
+2022-05-13 21:51:01,320 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:51:01,082]
+
+[LOG START: 2022-05-13 21:52:23,513]
+2022-05-13 21:52:23,753 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:52:23,513]
+
+[LOG START: 2022-05-13 21:52:39,464]
+2022-05-13 21:52:39,710 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 21:52:39,465]
+
+[LOG START: 2022-05-13 22:00:57,786]
+2022-05-13 22:00:58,028 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 22:00:57,786]
+
+[LOG START: 2022-05-13 23:13:33,456]
+2022-05-13 23:13:33,755 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 23:13:33,456]
+
+[LOG START: 2022-05-13 23:26:14,560]
+2022-05-13 23:26:14,812 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-13 23:26:14,561]
+
+[LOG START: 2022-05-16 20:39:50,501]
+2022-05-16 20:39:50,810 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-16 20:39:50,501]
+
+[LOG START: 2022-05-16 22:37:41,347]
+2022-05-16 22:37:41,613 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-16 22:37:41,347]
+
+[LOG START: 2022-05-16 22:38:02,978]
+2022-05-16 22:38:03,203 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-16 22:38:02,978]
+
+[LOG START: 2022-05-16 22:38:54,828]
+2022-05-16 22:38:55,038 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-16 22:38:54,828]
+
+[LOG START: 2022-05-16 22:39:10,953]
+2022-05-16 22:39:11,189 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-16 22:39:10,953]
+
+[LOG START: 2022-05-16 22:39:19,310]
+2022-05-16 22:39:19,556 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-16 22:39:19,310]
+
+[LOG START: 2022-05-17 14:52:07,512]
+2022-05-17 14:52:07,984 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 14:52:07,512]
+
+[LOG START: 2022-05-17 15:15:59,873]
+2022-05-17 15:16:00,120 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 15:15:59,873]
+
+[LOG START: 2022-05-17 19:13:21,673]
+2022-05-17 19:13:22,033 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 19:13:21,673]
+
+[LOG START: 2022-05-17 19:45:53,347]
+2022-05-17 19:45:53,586 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 19:45:53,347]
+
+[LOG START: 2022-05-17 19:55:33,067]
+2022-05-17 19:55:33,320 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 19:55:33,067]
+
+[LOG START: 2022-05-17 20:09:30,026]
+2022-05-17 20:09:30,256 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 20:09:30,026]
+
+[LOG START: 2022-05-17 20:40:32,768]
+2022-05-17 20:40:33,008 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 20:40:32,768]
+
+[LOG START: 2022-05-17 20:42:47,256]
+2022-05-17 20:42:47,522 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 20:42:47,256]
+
+[LOG START: 2022-05-17 21:14:34,953]
+2022-05-17 21:14:35,176 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 21:14:34,953]
+
+[LOG START: 2022-05-17 21:19:28,775]
+2022-05-17 21:19:29,016 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 21:19:28,775]
+
+[LOG START: 2022-05-17 21:20:29,245]
+2022-05-17 21:20:29,473 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 21:20:29,245]
+
+[LOG START: 2022-05-17 21:21:04,014]
+2022-05-17 21:21:04,254 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-17 21:21:04,014]
+
+[LOG START: 2022-05-18 17:35:47,629]
+2022-05-18 17:35:47,937 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-18 17:35:47,629]
+
+[LOG START: 2022-05-18 17:58:34,409]
+2022-05-18 17:58:34,742 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-18 17:58:34,409]
+
+[LOG START: 2022-05-18 18:28:26,621]
+2022-05-18 18:28:27,042 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-18 18:28:26,621]
+
+[LOG START: 2022-05-19 10:14:01,929]
+2022-05-19 10:14:02,416 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:14:01,929]
+
+[LOG START: 2022-05-19 10:16:30,673]
+2022-05-19 10:16:31,004 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:16:30,673]
+
+[LOG START: 2022-05-19 10:18:11,189]
+2022-05-19 10:18:11,601 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:18:11,189]
+
+[LOG START: 2022-05-19 10:21:56,641]
+2022-05-19 10:21:56,950 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:21:56,641]
+
+[LOG START: 2022-05-19 10:24:02,612]
+2022-05-19 10:24:02,882 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:24:02,612]
+
+[LOG START: 2022-05-19 10:26:16,939]
+2022-05-19 10:26:17,183 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:26:16,939]
+
+[LOG START: 2022-05-19 10:26:36,360]
+2022-05-19 10:26:36,547 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:26:36,360]
+
+[LOG START: 2022-05-19 10:35:41,812]
+2022-05-19 10:35:42,344 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:35:41,812]
+
+[LOG START: 2022-05-19 10:36:14,445]
+2022-05-19 10:36:14,765 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:36:14,445]
+
+[LOG START: 2022-05-19 10:37:23,024]
+2022-05-19 10:37:23,292 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:37:23,024]
+
+[LOG START: 2022-05-19 10:42:09,956]
+2022-05-19 10:42:10,260 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:42:09,956]
+
+[LOG START: 2022-05-19 10:42:38,349]
+2022-05-19 10:42:38,765 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:42:38,349]
+
+[LOG START: 2022-05-19 10:43:26,120]
+2022-05-19 10:43:26,518 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:43:26,120]
+
+[LOG START: 2022-05-19 10:45:22,431]
+2022-05-19 10:45:22,723 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:45:22,431]
+
+[LOG START: 2022-05-19 10:47:40,893]
+2022-05-19 10:47:41,259 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:47:40,893]
+
+[LOG START: 2022-05-19 10:52:05,981]
+2022-05-19 10:52:06,334 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:52:05,981]
+
+[LOG START: 2022-05-19 10:54:19,598]
+2022-05-19 10:54:19,985 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:54:19,598]
+
+[LOG START: 2022-05-19 10:55:22,252]
+2022-05-19 10:55:22,541 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:55:22,252]
+
+[LOG START: 2022-05-19 10:56:35,754]
+2022-05-19 10:56:36,047 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 10:56:35,754]
+
+[LOG START: 2022-05-19 11:03:57,255]
+2022-05-19 11:03:57,570 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 11:03:57,255]
+
+[LOG START: 2022-05-19 11:06:07,020]
+2022-05-19 11:06:07,403 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 11:06:07,020]
+
+[LOG START: 2022-05-19 11:07:06,754]
+2022-05-19 11:07:07,123 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 11:07:06,754]
+
+[LOG START: 2022-05-19 11:10:05,860]
+2022-05-19 11:10:06,178 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 11:10:05,860]
+
+[LOG START: 2022-05-19 11:20:00,129]
+2022-05-19 11:20:00,462 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 11:20:00,129]
+
+[LOG START: 2022-05-19 11:20:52,709]
+2022-05-19 11:20:52,913 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 11:20:52,709]
+
+[LOG START: 2022-05-19 11:32:56,665]
+2022-05-19 11:32:56,955 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 11:32:56,665]
+
+[LOG START: 2022-05-19 19:25:16,607]
+2022-05-19 19:25:17,016 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-19 19:25:16,607]
+
+[LOG START: 2022-05-21 18:55:57,912]
+2022-05-21 18:55:58,256 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-21 18:55:57,912]
+
+[LOG START: 2022-05-21 19:08:49,535]
+2022-05-21 19:08:49,855 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-21 19:08:49,535]
+
+[LOG START: 2022-05-21 19:10:42,163]
+2022-05-21 19:10:42,583 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-21 19:10:42,163]
+
+[LOG START: 2022-05-21 19:11:07,750]
+2022-05-21 19:11:08,060 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-21 19:11:07,750]
+
+[LOG START: 2022-05-21 19:18:59,175]
+2022-05-21 19:18:59,428 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-21 19:18:59,175]
+
+[LOG START: 2022-05-21 19:19:43,573]
+2022-05-21 19:19:43,777 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-21 19:19:43,573]
+
+[LOG START: 2022-05-21 19:28:04,623]
+2022-05-21 19:28:04,928 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-21 19:28:04,623]
+
+[LOG START: 2022-05-21 19:28:11,787]
+2022-05-21 19:28:11,990 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-21 19:28:11,787]
+
+[LOG START: 2022-05-21 19:29:34,372]
+2022-05-21 19:29:34,642 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-21 19:29:34,372]
+
+[LOG START: 2022-05-21 19:29:45,325]
+2022-05-21 19:29:45,481 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-05-21 19:29:45,325]
+
+[LOG START: 2022-06-05 22:30:28,498]
+2022-06-05 22:30:29,232 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-06-05 22:30:28,498]
+
+[LOG START: 2022-06-05 22:30:48,716]
+2022-06-05 22:30:48,920 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-06-05 22:30:48,716]
+
+[LOG START: 2022-06-05 22:36:29,938]
+2022-06-05 22:36:30,270 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-06-05 22:36:29,938]
+
+[LOG START: 2022-06-09 00:41:15,542]
+2022-06-09 00:41:16,069 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-06-09 00:41:15,542]
+
+[LOG START: 2022-06-23 19:08:45,273]
+2022-06-23 19:08:45,523 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-06-23 19:08:45,273]
+
+[LOG START: 2022-07-26 23:13:05,137]
+2022-07-26 23:13:05,518 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-07-26 23:13:05,137]
+
+[LOG START: 2022-07-26 23:15:21,309]
+2022-07-26 23:15:21,953 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-07-26 23:15:21,309]
+
+[LOG START: 2022-07-26 23:15:43,026]
+2022-07-26 23:15:43,281 [DEBUG] [1] OS.Unity.UnityResolver - Resolved: 'OS.WPF.IAppViewModel' implemented by 'OS.AutoScanner.Models.AutoScannerViewModel', registered name: 'AutoScannerViewModel'
+[LOG END: 2022-07-26 23:15:43,026]
+
